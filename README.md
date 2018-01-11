@@ -14,3 +14,6 @@
 5. Verify files were uploaded to your GitHub account.
  
  ***Note:*** Any issues you have with either the GitHub steps or Java questions should be asked publically in Slack. If you have a question, chances are someone else does also. If you see someone has posted a question on Slack and you know the answer, please chime in and answer. This might seem rough at the beginning, but I promise it will get easier.
+ 
+ ## Challenge: Create an SSH key and set up Github to use it (SSH rather than HTTPS). ##
+ This will remove you having to enter your username/password for every push.
